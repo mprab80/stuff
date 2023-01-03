@@ -1,0 +1,28 @@
+.heading{
+    width:100%;
+    margin-top:0px;
+}
+#cherry{
+    font-size:25px;
+    color:white;
+}
+#apple{
+    font-size: 15px;
+    color:black;
+}
+#banana{
+    font-size:20px;
+}
+body{
+    background-size:cover;
+}
+canvas{
+    border:5px solid white;
+    border-radius:10px;
+    box-shadow:5px 5px 5px green;
+}
+#banana{
+    width:124;
+    font-size:25px;
+    margin:0px;
+}
